@@ -8,6 +8,10 @@ Farting Spider, Belching Zombie: the default sounds of zombies
 and spiders annoy me, so I replaced them with farts and burps.
 This amuses me to no end, because I am nine.
 
+Warduin: I thought it would be funny if the Warden's sonic boom 
+attack was the Skyrim fus-ro-dah shout, so I shamelessly stole the 
+sounds out of the Skyrim data files and converted them. 
+
 STRUCTURES
 
 Hut: it's the little hut I always build. It's dumb. I just put
